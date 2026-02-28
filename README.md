@@ -31,12 +31,6 @@ AdmitGuard is a production-grade internal tool that enforces compliance at the p
    npm run build
    ```
 
-## Screenshots
-*(Add your screenshots here)*
-- [Dashboard Overview]
-- [Dynamic Enrollment Form]
-- [Audit Log with Exceptions]
-- [Dark Mode Interface]
 
 ## Technologies Used
 - **Frontend**: React 19, TypeScript, Tailwind CSS

@@ -30,6 +30,21 @@ AdmitGuard is a production-grade internal tool that enforces compliance at the p
    ```bash
    npm run build
    ```
+   
+## Screenshots
+*(Add your screenshots here)*
+- [Dashboard Overview]
+  <img width="1142" height="822" alt="image" src="https://github.com/user-attachments/assets/0c093b0d-06bd-4e6f-9104-08ef12e57499" />
+
+- [Dynamic Enrollment Form]
+<img width="1312" height="819" alt="image" src="https://github.com/user-attachments/assets/cb4004dc-ad7d-428c-aced-2061d401018f" />
+
+
+- [Audit Log with Exceptions]
+  <img width="1293" height="808" alt="image" src="https://github.com/user-attachments/assets/f7cc1b7c-f61d-4d13-95c2-f6be0a68f1b4" />
+
+
+  
 
 
 ## Technologies Used
